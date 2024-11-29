@@ -1,0 +1,40 @@
+div{
+    width: 300px;
+    border-style: solid;
+    border-width: 5px 10px 15px 20px;
+    border-top-width: 10px;
+    border-color:rgba(226, 43, 195, 0.521);
+}
+
+div {
+    margin-top: 50px;
+    margin-right: 50px;
+     margin-bottom: 50px;
+    margin-left: 50px;
+}
+
+h1 {
+    background-color: cyan;
+    border: 2px solid seagreen;
+    width: 500px;
+    padding: 100px;
+    margin: 50px;
+    display: inline-block;
+}
+
+span {
+    border: 2px solid seagreen;
+    width: 500px;
+    padding: 100px;
+    margin: 50px;
+    display: inline-block
+}
+
+p {
+    background-color: cyan;
+    border: 2px solid seagreen;
+    width: 500px;
+    padding: 100px;
+    margin: 50px;
+    display: inline-block;
+}

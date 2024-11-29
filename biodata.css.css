@@ -1,0 +1,12 @@
+h1 {
+    text-align: center;
+}
+
+#hasil-output {
+    height: 300px;
+    width: 250px;
+    border-color: black;
+    border-style: solid;
+    padding: 5px 5px 5px 5px;
+    margin: 0 auto;
+}
